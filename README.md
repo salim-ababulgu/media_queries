@@ -25,7 +25,3 @@ Ce projet a été réalisé par moi-même dans le cadre de mes études et de ma 
 - GitHub : [Lien vers mon profil GitHub](lien_vers_votre_github)
 - Email : [Votre adresse email](votre_adresse_email)
 - LinkedIn : [Votre profil LinkedIn](lien_vers_votre_linkedin)
-
----
-
-N'oubliez pas de personnaliser les liens et les informations selon vos besoins. Si vous avez d'autres questions ou besoin d'aide supplémentaire, n'hésitez pas à demander !
