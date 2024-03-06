@@ -1,0 +1,14 @@
+/*Je met les valeur par default a zéro */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media only screen and (min-width: 1680px) and (max-width: 1920px) {
+    /* Styles à appliquer pour les résolutions d'écran entre 1680px et 1920px */
+    body {
+        background: #ffca4b;
+    }
+}
+  

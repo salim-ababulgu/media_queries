@@ -1,0 +1,61 @@
+/*Je met les valeur par default a zéro */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Grand écran */
+@media screen and (min-width: 1600px) {
+
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container1, .container2, .container3, .container4 {
+    background: #88c1d0;
+    margin: 22px 20px;
+    width  : 500px;
+    height : 500px;
+}
+
+  }
+
+  /* Moyen écran */
+@media screen and (max-width: 1599px) and (min-width: 768px) {
+
+  main {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-wrap: wrap;
+    }
+
+  .container1, .container2, .container3, .container4 {
+    background: #88c1d0;
+    margin: 20px 20px;
+    width  : 350px;
+    height : 350px;
+    }
+
+  }
+
+/* Petit écran */
+@media screen and (max-width: 767px) {
+
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .container1, .container2, .container3, .container4 {
+    background: #88c1d0;
+    margin: 20px 20px;
+    width  : 150px;
+    height : 150px;
+}
+  }

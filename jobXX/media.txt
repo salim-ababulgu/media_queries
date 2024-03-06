@@ -1,0 +1,14 @@
+/* Très petits devices */
+@media only screen and (max-width: 600px) {...} ;
+
+/*Petits devices */ 
+@media only screen and (min-width: 600px) {...} ;
+
+/* Devices moyens */ 
+@media only screen and (min-width: 768px) {...} ;
+
+/*Grands devices*/ 
+@media only scn and (min-width: 992px) {...} ;
+
+/* Très grands devices */ 
+@media only screen and (min-width: 1200px) {...} ;

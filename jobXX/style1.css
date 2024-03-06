@@ -1,0 +1,11 @@
+/*Je met les valeur par default a zéro */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #88c1d0;
+}
+
